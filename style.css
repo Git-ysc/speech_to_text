@@ -1,0 +1,15 @@
+body{
+    color: hsl(250, 69%, 61%);
+}
+
+.start{
+    background: linear-gradient(to right, #a8ff78, #78ffd6);
+}
+
+.stop{
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+
+.listen{
+    color: hsl(250, 69%, 61%);
+}
